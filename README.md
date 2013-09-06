@@ -1,4 +1,0 @@
-ResCalc
-=======
-
-Resistor Divider Calculator
