@@ -1,0 +1,4 @@
+This program is a Resistor Divider Calculator that does the calculation
+based on physically available resistor values. The gui is written in python 
+and uses the wxWidgets module. The brain of the program is written in python 
+as well.
