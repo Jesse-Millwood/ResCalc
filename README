@@ -1,3 +1,12 @@
 This program is a Resistor Divider Calculator that does the calculation
 based on physically available resistor values. The gui is written in python 
 and uses the wxWidgets module. 
+
+To use:
+  * Put all files in the same directory and run ResCalc_wx.py from the command line.
+  * Select the resistors to use in the calculation
+  * Click on the input box for Input Voltage and type the input voltage AND PRESS ENTER while the box is still selected
+  * Click on the input box for Output Voltage and type the output voltage AND PRESS ENTER while the box is still selected
+  * You must press enter after typing in the desired voltages
+  * The results will appear in the text box on the right side of the gui
+  
